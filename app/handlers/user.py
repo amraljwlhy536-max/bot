@@ -11,7 +11,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.types import CallbackQuery, Message
 from aiogram.utils.keyboard import InlineKeyboardBuilder
-from django.db import router
+
 from app.config import Settings
 
 from app.handlers.required_channels import _topup_payment_methods_keyboard
