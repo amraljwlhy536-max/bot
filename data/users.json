@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "id": "8dfd9859-2dea-4274-8141-fcf7bf74a51e",
+      "telegram_id": 6851279440,
+      "email": "aameraljawlahi@gmail.com",
+      "username": null,
+      "first_name": null,
+      "points_balance": 0,
+      "is_banned": false,
+      "created_at": "2026-10-11T13:51:01.850622+00:00",
+      "updated_at": "2026-10-11T13:51:01.850622+00:00"
+    },
+    {
+      "id": "833d13a7-6f10-4246-8645-9f7c1fe2bbcd",
+      "telegram_id": 7357959786,
+      "email": "amraljwlhy536@gmail.com",
+      "username": null,
+      "first_name": null,
+      "points_balance": 0,
+      "is_banned": false,
+      "created_at": "2026-10-11T14:00:48.709941+00:00",
+      "updated_at": "2026-10-11T19:39:32.442598+00:00"
+    }
+  ]
+}

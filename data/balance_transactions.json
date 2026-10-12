@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": "cef1472d-ece7-452f-ab18-52ee341649c4",
+      "user_id": "833d13a7-6f10-4246-8645-9f7c1fe2bbcd",
+      "type": "ADMIN_CREDIT",
+      "amount": 1000,
+      "balance_before": 0,
+      "balance_after": 1000,
+      "reason": null,
+      "admin_id": 6851279440,
+      "order_id": null,
+      "created_at": "2026-10-11T19:39:12.284175+00:00"
+    },
+    {
+      "id": "52e367b5-57a3-4962-bac7-6a340ba95160",
+      "user_id": "833d13a7-6f10-4246-8645-9f7c1fe2bbcd",
+      "type": "PURCHASE",
+      "amount": 1000,
+      "balance_before": 1000,
+      "balance_after": 0,
+      "reason": null,
+      "admin_id": null,
+      "order_id": "6acbe5eab0aa7a04371fe3bc",
+      "created_at": "2026-10-11T19:39:32.442598+00:00"
+    }
+  ]
+}
